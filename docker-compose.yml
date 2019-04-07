@@ -1,8 +1,7 @@
 version: '3.2'
 services:
   jenkins:
-    build:
-      context: .
+    image: brodster22/jenkins-automated-setup:latest
     deploy:
       replicas: 1
       restart_policy:
