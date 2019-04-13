@@ -12,4 +12,4 @@ The purpose of this repo is to create a docker container that is fully configure
 
 Thanks to the following for their awesome guides:
 
-- technologyconversations.com - [Automating Jenkins Docker Setup](https://technologyconversations.com/2017/06/16/automating-jenkins-docker-setup/)
+- technologyconversations.com: [Automating Jenkins Docker Setup](https://technologyconversations.com/2017/06/16/automating-jenkins-docker-setup/)
